@@ -8,7 +8,9 @@ The dashboard transforms chess competition data into meaningful visual insights 
 
 ## 📊 Dashboard Preview
 
-![Chess Competition Dashboard](Chess_Dashboard.png)
+## 📊 Dashboard Preview
+
+![Chess Competition Dashboard](Dashboard%20screenshot.png)
 
 ---
 
