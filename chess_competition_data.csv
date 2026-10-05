@@ -1,0 +1,101 @@
+Game_ID,Tournament,Game_Date,Month,City,Country,Format,Round,White_Player,White_Country,White_Elo,Black_Player,Black_Country,Black_Elo,Result,Winner,Opening,ECO_Code,Total_Moves,Time_Control_Min,Termination
+G165,Oslo Chess Cup,2026-01-01,January,Oslo,Norway,Classical,3,Wei Zhang,China,2700,David Cohen,Israel,2630,0-1,David Cohen,Ruy Lopez,C84,78,171,Resignation
+G197,Beijing Invitational,2026-01-02,January,Beijing,China,Blitz,8,Maria Lopez,Spain,2500,Carlos Mendes,Brazil,2480,1/2-1/2,Draw,English Opening,A10,94,10,Stalemate
+G163,Beijing Invitational,2026-01-12,January,Beijing,China,Blitz,3,Magnus Hallberg,Norway,2780,Wei Zhang,China,2700,0-1,Wei Zhang,Caro-Kann Defense,B12,71,19,Checkmate
+G178,Dubai Blitz Championship,2026-01-13,January,Dubai,UAE,Blitz,4,Priya Nair,India,2520,Wei Zhang,China,2700,0-1,Wei Zhang,Italian Game,C50,55,12,Checkmate
+G176,Tokyo Chess Festival,2026-01-16,January,Tokyo,Japan,Rapid,7,Carlos Mendes,Brazil,2480,Li Na,China,2580,1/2-1/2,Draw,English Opening,A10,54,63,Draw Agreement
+G155,Berlin Chess Masters,2026-01-25,January,Berlin,Germany,Rapid,5,Hiroshi Tanaka,Japan,2560,Priya Nair,India,2520,1/2-1/2,Draw,Ruy Lopez,C84,76,88,Draw Agreement
+G146,Mumbai Grand Masters,2026-01-26,January,Mumbai,India,Classical,1,Sofia Rossi,Italy,2550,Priya Nair,India,2520,1-0,Sofia Rossi,Queen's Gambit,D30,66,176,Stalemate
+G172,Mumbai Grand Masters,2026-01-31,January,Mumbai,India,Classical,3,Wei Zhang,China,2700,Ivan Volkov,Ukraine,2620,1-0,Wei Zhang,French Defense,C11,23,186,Time Forfeit
+G126,Tokyo Chess Festival,2026-02-01,February,Tokyo,Japan,Rapid,6,Li Na,China,2580,Anna Schmidt,Germany,2590,1-0,Li Na,Queen's Gambit,D30,42,70,Stalemate
+G198,Beijing Invitational,2026-02-04,February,Beijing,China,Blitz,3,Ivan Volkov,Ukraine,2620,Lucas Dubois,France,2650,1/2-1/2,Draw,English Opening,A10,52,13,Stalemate
+G114,Dubai Blitz Championship,2026-02-06,February,Dubai,UAE,Blitz,4,Priya Nair,India,2520,Aisha Khan,Pakistan,2400,1-0,Priya Nair,Queen's Gambit,D30,32,10,Stalemate
+G186,Dubai Blitz Championship,2026-02-08,February,Dubai,UAE,Blitz,6,Priya Nair,India,2520,Ivan Volkov,Ukraine,2620,1/2-1/2,Draw,Ruy Lopez,C84,36,16,Repetition
+G159,Berlin Chess Masters,2026-02-08,February,Berlin,Germany,Rapid,4,Lucas Dubois,France,2650,Omar Farouk,Egypt,2450,1-0,Lucas Dubois,English Opening,A10,70,50,Stalemate
+G174,Berlin Chess Masters,2026-02-10,February,Berlin,Germany,Rapid,5,Lucas Dubois,France,2650,Maria Lopez,Spain,2500,1-0,Lucas Dubois,Italian Game,C50,76,46,Checkmate
+G199,Paris Elite Open,2026-02-12,February,Paris,France,Classical,6,Hiroshi Tanaka,Japan,2560,Priya Nair,India,2520,0-1,Priya Nair,Nimzo-Indian Defense,E32,85,160,Stalemate
+G144,Oslo Chess Cup,2026-02-13,February,Oslo,Norway,Classical,9,Lucas Dubois,France,2650,Anna Schmidt,Germany,2590,1-0,Lucas Dubois,Sicilian Defense,B90,58,227,Resignation
+G135,Tokyo Chess Festival,2026-02-15,February,Tokyo,Japan,Rapid,5,Omar Farouk,Egypt,2450,Priya Nair,India,2520,1-0,Omar Farouk,Queen's Gambit,D30,74,57,Checkmate
+G143,Mumbai Grand Masters,2026-02-16,February,Mumbai,India,Classical,5,Omar Farouk,Egypt,2450,Carlos Mendes,Brazil,2480,1-0,Omar Farouk,King's Indian Defense,E97,84,201,Checkmate
+G133,Paris Elite Open,2026-02-23,February,Paris,France,Classical,2,Omar Farouk,Egypt,2450,David Cohen,Israel,2630,0-1,David Cohen,Nimzo-Indian Defense,E32,28,178,Draw Agreement
+G152,Beijing Invitational,2026-02-27,February,Beijing,China,Blitz,6,Magnus Hallberg,Norway,2780,Anna Schmidt,Germany,2590,1-0,Magnus Hallberg,Nimzo-Indian Defense,E32,53,18,Resignation
+G129,Tokyo Chess Festival,2026-03-04,March,Tokyo,Japan,Rapid,7,Sofia Rossi,Italy,2550,Hiroshi Tanaka,Japan,2560,1/2-1/2,Draw,King's Indian Defense,E97,55,48,Stalemate
+G162,Beijing Invitational,2026-03-06,March,Beijing,China,Blitz,9,Lucas Dubois,France,2650,Wei Zhang,China,2700,1/2-1/2,Draw,Sicilian Defense,B90,93,21,Repetition
+G109,Mumbai Grand Masters,2026-03-08,March,Mumbai,India,Classical,4,Ivan Volkov,Ukraine,2620,Li Na,China,2580,1-0,Ivan Volkov,Ruy Lopez,C84,83,165,Time Forfeit
+G153,Tokyo Chess Festival,2026-03-14,March,Tokyo,Japan,Rapid,7,Aisha Khan,Pakistan,2400,Carlos Mendes,Brazil,2480,1-0,Aisha Khan,Sicilian Defense,B90,82,65,Draw Agreement
+G122,Paris Elite Open,2026-03-19,March,Paris,France,Classical,8,Ivan Volkov,Ukraine,2620,Carlos Mendes,Brazil,2480,1/2-1/2,Draw,Ruy Lopez,C84,50,193,Repetition
+G106,Tokyo Chess Festival,2026-03-19,March,Tokyo,Japan,Rapid,8,Anna Schmidt,Germany,2590,Aisha Khan,Pakistan,2400,0-1,Aisha Khan,Ruy Lopez,C84,85,50,Time Forfeit
+G189,Beijing Invitational,2026-03-21,March,Beijing,China,Blitz,9,Priya Nair,India,2520,Lucas Dubois,France,2650,1/2-1/2,Draw,English Opening,A10,38,22,Draw Agreement
+G130,Dubai Blitz Championship,2026-03-21,March,Dubai,UAE,Blitz,6,Magnus Hallberg,Norway,2780,Omar Farouk,Egypt,2450,1-0,Magnus Hallberg,Ruy Lopez,C84,47,13,Resignation
+G131,Berlin Chess Masters,2026-03-24,March,Berlin,Germany,Rapid,7,Wei Zhang,China,2700,Sofia Rossi,Italy,2550,1-0,Wei Zhang,Ruy Lopez,C84,70,50,Stalemate
+G181,Oslo Chess Cup,2026-03-24,March,Oslo,Norway,Classical,7,Sofia Rossi,Italy,2550,Carlos Mendes,Brazil,2480,1-0,Sofia Rossi,Sicilian Defense,B90,81,291,Checkmate
+G182,Bhopal Open,2026-03-30,March,Bhopal,India,Rapid,4,David Cohen,Israel,2630,Anna Schmidt,Germany,2590,1-0,David Cohen,Ruy Lopez,C84,73,85,Resignation
+G179,Tokyo Chess Festival,2026-04-04,April,Tokyo,Japan,Rapid,1,Ivan Volkov,Ukraine,2620,Lucas Dubois,France,2650,1/2-1/2,Draw,King's Indian Defense,E97,85,48,Repetition
+G141,Bhopal Open,2026-04-05,April,Bhopal,India,Rapid,3,Lucas Dubois,France,2650,Maria Lopez,Spain,2500,1/2-1/2,Draw,King's Indian Defense,E97,61,42,Stalemate
+G188,Mumbai Grand Masters,2026-04-05,April,Mumbai,India,Classical,5,Carlos Mendes,Brazil,2480,Wei Zhang,China,2700,1-0,Carlos Mendes,French Defense,C11,21,233,Checkmate
+G156,Mumbai Grand Masters,2026-04-08,April,Mumbai,India,Classical,6,Anna Schmidt,Germany,2590,Omar Farouk,Egypt,2450,0-1,Omar Farouk,French Defense,C11,54,261,Time Forfeit
+G200,Bhopal Open,2026-04-10,April,Bhopal,India,Rapid,3,Priya Nair,India,2520,Lucas Dubois,France,2650,1/2-1/2,Draw,Caro-Kann Defense,B12,47,44,Stalemate
+G119,Beijing Invitational,2026-04-10,April,Beijing,China,Blitz,6,Carlos Mendes,Brazil,2480,David Cohen,Israel,2630,1/2-1/2,Draw,Sicilian Defense,B90,33,18,Stalemate
+G154,Paris Elite Open,2026-04-11,April,Paris,France,Classical,1,Omar Farouk,Egypt,2450,Priya Nair,India,2520,0-1,Priya Nair,Sicilian Defense,B90,61,236,Draw Agreement
+G137,Beijing Invitational,2026-04-16,April,Beijing,China,Blitz,5,Elena Petrova,Russia,2610,Magnus Hallberg,Norway,2780,1/2-1/2,Draw,Queen's Gambit,D30,55,19,Stalemate
+G139,Tokyo Chess Festival,2026-04-21,April,Tokyo,Japan,Rapid,4,Elena Petrova,Russia,2610,Omar Farouk,Egypt,2450,0-1,Omar Farouk,Caro-Kann Defense,B12,83,65,Draw Agreement
+G142,Tokyo Chess Festival,2026-04-22,April,Tokyo,Japan,Rapid,6,Arjun Rao,India,2740,Wei Zhang,China,2700,1-0,Arjun Rao,Italian Game,C50,61,42,Resignation
+G194,Oslo Chess Cup,2026-04-24,April,Oslo,Norway,Classical,7,Priya Nair,India,2520,Ivan Volkov,Ukraine,2620,1/2-1/2,Draw,Sicilian Defense,B90,79,172,Repetition
+G102,Bhopal Open,2026-04-25,April,Bhopal,India,Rapid,1,Maria Lopez,Spain,2500,Carlos Mendes,Brazil,2480,1-0,Maria Lopez,Ruy Lopez,C84,74,76,Stalemate
+G171,Tokyo Chess Festival,2026-04-25,April,Tokyo,Japan,Rapid,8,Sofia Rossi,Italy,2550,Wei Zhang,China,2700,0-1,Wei Zhang,King's Indian Defense,E97,33,79,Time Forfeit
+G118,Dubai Blitz Championship,2026-05-03,May,Dubai,UAE,Blitz,7,Sofia Rossi,Italy,2550,David Cohen,Israel,2630,1/2-1/2,Draw,Nimzo-Indian Defense,E32,72,16,Repetition
+G160,Tokyo Chess Festival,2026-05-05,May,Tokyo,Japan,Rapid,2,Sofia Rossi,Italy,2550,Aisha Khan,Pakistan,2400,0-1,Aisha Khan,English Opening,A10,74,75,Resignation
+G164,Paris Elite Open,2026-05-08,May,Paris,France,Classical,2,Aisha Khan,Pakistan,2400,Anna Schmidt,Germany,2590,0-1,Anna Schmidt,Ruy Lopez,C84,70,285,Resignation
+G124,Beijing Invitational,2026-05-13,May,Beijing,China,Blitz,9,Carlos Mendes,Brazil,2480,Arjun Rao,India,2740,1/2-1/2,Draw,King's Indian Defense,E97,94,20,Stalemate
+G111,Beijing Invitational,2026-05-15,May,Beijing,China,Blitz,5,Wei Zhang,China,2700,Priya Nair,India,2520,1-0,Wei Zhang,French Defense,C11,49,15,Checkmate
+G136,Beijing Invitational,2026-05-18,May,Beijing,China,Blitz,3,Magnus Hallberg,Norway,2780,Wei Zhang,China,2700,0-1,Wei Zhang,English Opening,A10,21,23,Checkmate
+G183,Paris Elite Open,2026-05-18,May,Paris,France,Classical,6,Ivan Volkov,Ukraine,2620,Anna Schmidt,Germany,2590,0-1,Anna Schmidt,French Defense,C11,35,225,Draw Agreement
+G151,Beijing Invitational,2026-05-18,May,Beijing,China,Blitz,7,Anna Schmidt,Germany,2590,Priya Nair,India,2520,0-1,Priya Nair,Sicilian Defense,B90,57,24,Resignation
+G167,Beijing Invitational,2026-05-23,May,Beijing,China,Blitz,6,Lucas Dubois,France,2650,Wei Zhang,China,2700,1-0,Lucas Dubois,Sicilian Defense,B90,21,24,Resignation
+G158,Tokyo Chess Festival,2026-05-25,May,Tokyo,Japan,Rapid,5,Priya Nair,India,2520,Ivan Volkov,Ukraine,2620,0-1,Ivan Volkov,Queen's Gambit,D30,41,66,Draw Agreement
+G108,Berlin Chess Masters,2026-05-26,May,Berlin,Germany,Rapid,7,Aisha Khan,Pakistan,2400,Hiroshi Tanaka,Japan,2560,0-1,Hiroshi Tanaka,Sicilian Defense,B90,59,83,Draw Agreement
+G166,Mumbai Grand Masters,2026-06-03,June,Mumbai,India,Classical,9,Anna Schmidt,Germany,2590,Magnus Hallberg,Norway,2780,0-1,Magnus Hallberg,Nimzo-Indian Defense,E32,75,178,Stalemate
+G196,Beijing Invitational,2026-06-06,June,Beijing,China,Blitz,7,Carlos Mendes,Brazil,2480,Arjun Rao,India,2740,0-1,Arjun Rao,Sicilian Defense,B90,61,24,Draw Agreement
+G103,Paris Elite Open,2026-06-07,June,Paris,France,Classical,9,Priya Nair,India,2520,Elena Petrova,Russia,2610,1-0,Priya Nair,Queen's Gambit,D30,57,257,Resignation
+G170,Beijing Invitational,2026-06-09,June,Beijing,China,Blitz,4,Arjun Rao,India,2740,Lucas Dubois,France,2650,1-0,Arjun Rao,Nimzo-Indian Defense,E32,28,16,Resignation
+G104,Bhopal Open,2026-06-10,June,Bhopal,India,Rapid,8,Carlos Mendes,Brazil,2480,Li Na,China,2580,1-0,Carlos Mendes,Ruy Lopez,C84,27,71,Stalemate
+G184,Berlin Chess Masters,2026-06-17,June,Berlin,Germany,Rapid,2,Carlos Mendes,Brazil,2480,Sofia Rossi,Italy,2550,1-0,Carlos Mendes,French Defense,C11,50,58,Time Forfeit
+G121,Dubai Blitz Championship,2026-06-20,June,Dubai,UAE,Blitz,2,Magnus Hallberg,Norway,2780,Maria Lopez,Spain,2500,1/2-1/2,Draw,Caro-Kann Defense,B12,55,23,Repetition
+G177,Paris Elite Open,2026-06-23,June,Paris,France,Classical,6,Priya Nair,India,2520,Carlos Mendes,Brazil,2480,1-0,Priya Nair,Ruy Lopez,C84,27,215,Draw Agreement
+G190,Oslo Chess Cup,2026-07-02,July,Oslo,Norway,Classical,7,Lucas Dubois,France,2650,Hiroshi Tanaka,Japan,2560,1-0,Lucas Dubois,King's Indian Defense,E97,59,256,Time Forfeit
+G195,Beijing Invitational,2026-07-03,July,Beijing,China,Blitz,2,Aisha Khan,Pakistan,2400,Magnus Hallberg,Norway,2780,0-1,Magnus Hallberg,Sicilian Defense,B90,71,22,Resignation
+G187,Oslo Chess Cup,2026-07-08,July,Oslo,Norway,Classical,6,Ivan Volkov,Ukraine,2620,Anna Schmidt,Germany,2590,1-0,Ivan Volkov,Sicilian Defense,B90,33,239,Resignation
+G161,Dubai Blitz Championship,2026-07-16,July,Dubai,UAE,Blitz,7,Magnus Hallberg,Norway,2780,Li Na,China,2580,1-0,Magnus Hallberg,King's Indian Defense,E97,45,23,Stalemate
+G192,Paris Elite Open,2026-07-23,July,Paris,France,Classical,2,Hiroshi Tanaka,Japan,2560,Sofia Rossi,Italy,2550,0-1,Sofia Rossi,Queen's Gambit,D30,21,163,Stalemate
+G134,Berlin Chess Masters,2026-07-27,July,Berlin,Germany,Rapid,3,Priya Nair,India,2520,Ivan Volkov,Ukraine,2620,0-1,Ivan Volkov,King's Indian Defense,E97,36,83,Stalemate
+G110,Paris Elite Open,2026-08-01,August,Paris,France,Classical,6,Aisha Khan,Pakistan,2400,Priya Nair,India,2520,1-0,Aisha Khan,Caro-Kann Defense,B12,55,185,Time Forfeit
+G169,Berlin Chess Masters,2026-08-04,August,Berlin,Germany,Rapid,6,Sofia Rossi,Italy,2550,Omar Farouk,Egypt,2450,1-0,Sofia Rossi,Italian Game,C50,49,42,Time Forfeit
+G191,Mumbai Grand Masters,2026-08-05,August,Mumbai,India,Classical,2,Hiroshi Tanaka,Japan,2560,Omar Farouk,Egypt,2450,1-0,Hiroshi Tanaka,Caro-Kann Defense,B12,46,151,Checkmate
+G140,Beijing Invitational,2026-08-09,August,Beijing,China,Blitz,3,Wei Zhang,China,2700,Carlos Mendes,Brazil,2480,0-1,Carlos Mendes,Sicilian Defense,B90,36,18,Checkmate
+G175,Dubai Blitz Championship,2026-08-10,August,Dubai,UAE,Blitz,2,Maria Lopez,Spain,2500,Ivan Volkov,Ukraine,2620,1-0,Maria Lopez,French Defense,C11,68,19,Checkmate
+G113,Paris Elite Open,2026-08-14,August,Paris,France,Classical,3,Lucas Dubois,France,2650,Carlos Mendes,Brazil,2480,1-0,Lucas Dubois,Caro-Kann Defense,B12,27,198,Checkmate
+G157,Mumbai Grand Masters,2026-08-19,August,Mumbai,India,Classical,3,Lucas Dubois,France,2650,Ivan Volkov,Ukraine,2620,0-1,Ivan Volkov,Nimzo-Indian Defense,E32,46,170,Draw Agreement
+G128,Mumbai Grand Masters,2026-08-20,August,Mumbai,India,Classical,9,Magnus Hallberg,Norway,2780,Sofia Rossi,Italy,2550,1-0,Magnus Hallberg,Nimzo-Indian Defense,E32,85,201,Stalemate
+G112,Oslo Chess Cup,2026-08-22,August,Oslo,Norway,Classical,9,Maria Lopez,Spain,2500,David Cohen,Israel,2630,1/2-1/2,Draw,Italian Game,C50,46,281,Stalemate
+G107,Mumbai Grand Masters,2026-08-22,August,Mumbai,India,Classical,2,Magnus Hallberg,Norway,2780,Lucas Dubois,France,2650,1/2-1/2,Draw,Italian Game,C50,73,239,Draw Agreement
+G132,Paris Elite Open,2026-08-23,August,Paris,France,Classical,8,Omar Farouk,Egypt,2450,Carlos Mendes,Brazil,2480,1-0,Omar Farouk,Italian Game,C50,31,243,Checkmate
+G150,Berlin Chess Masters,2026-08-27,August,Berlin,Germany,Rapid,8,Elena Petrova,Russia,2610,Hiroshi Tanaka,Japan,2560,1-0,Elena Petrova,English Opening,A10,57,58,Checkmate
+G147,Beijing Invitational,2026-08-31,August,Beijing,China,Blitz,5,Aisha Khan,Pakistan,2400,Wei Zhang,China,2700,1-0,Aisha Khan,Ruy Lopez,C84,84,12,Checkmate
+G185,Berlin Chess Masters,2026-09-01,September,Berlin,Germany,Rapid,4,Sofia Rossi,Italy,2550,David Cohen,Israel,2630,1/2-1/2,Draw,Ruy Lopez,C84,89,46,Stalemate
+G148,Berlin Chess Masters,2026-09-03,September,Berlin,Germany,Rapid,5,Sofia Rossi,Italy,2550,Hiroshi Tanaka,Japan,2560,0-1,Hiroshi Tanaka,French Defense,C11,78,64,Checkmate
+G149,Beijing Invitational,2026-09-04,September,Beijing,China,Blitz,1,Magnus Hallberg,Norway,2780,Anna Schmidt,Germany,2590,1-0,Magnus Hallberg,King's Indian Defense,E97,58,10,Time Forfeit
+G120,Dubai Blitz Championship,2026-09-05,September,Dubai,UAE,Blitz,1,Hiroshi Tanaka,Japan,2560,Priya Nair,India,2520,1-0,Hiroshi Tanaka,French Defense,C11,80,16,Time Forfeit
+G115,Paris Elite Open,2026-09-07,September,Paris,France,Classical,8,Wei Zhang,China,2700,Omar Farouk,Egypt,2450,1-0,Wei Zhang,Italian Game,C50,66,271,Time Forfeit
+G193,Dubai Blitz Championship,2026-09-09,September,Dubai,UAE,Blitz,4,Li Na,China,2580,Magnus Hallberg,Norway,2780,1/2-1/2,Draw,Queen's Gambit,D30,51,22,Stalemate
+G168,Tokyo Chess Festival,2026-09-13,September,Tokyo,Japan,Rapid,7,Sofia Rossi,Italy,2550,David Cohen,Israel,2630,1-0,Sofia Rossi,Caro-Kann Defense,B12,59,41,Checkmate
+G145,Paris Elite Open,2026-09-16,September,Paris,France,Classical,3,Omar Farouk,Egypt,2450,Hiroshi Tanaka,Japan,2560,0-1,Hiroshi Tanaka,Queen's Gambit,D30,56,187,Stalemate
+G101,Dubai Blitz Championship,2026-09-17,September,Dubai,UAE,Blitz,4,Wei Zhang,China,2700,Carlos Mendes,Brazil,2480,1/2-1/2,Draw,Ruy Lopez,C84,42,11,Draw Agreement
+G127,Tokyo Chess Festival,2026-09-17,September,Tokyo,Japan,Rapid,8,Elena Petrova,Russia,2610,Ivan Volkov,Ukraine,2620,1/2-1/2,Draw,French Defense,C11,54,42,Repetition
+G180,Berlin Chess Masters,2026-09-20,September,Berlin,Germany,Rapid,4,Wei Zhang,China,2700,Anna Schmidt,Germany,2590,1-0,Wei Zhang,Italian Game,C50,78,90,Time Forfeit
+G138,Oslo Chess Cup,2026-09-21,September,Oslo,Norway,Classical,8,David Cohen,Israel,2630,Li Na,China,2580,0-1,Li Na,King's Indian Defense,E97,24,153,Resignation
+G116,Tokyo Chess Festival,2026-09-22,September,Tokyo,Japan,Rapid,1,Anna Schmidt,Germany,2590,Priya Nair,India,2520,1-0,Anna Schmidt,Italian Game,C50,53,84,Resignation
+G117,Dubai Blitz Championship,2026-09-23,September,Dubai,UAE,Blitz,6,Wei Zhang,China,2700,Hiroshi Tanaka,Japan,2560,1/2-1/2,Draw,Sicilian Defense,B90,68,18,Draw Agreement
+G105,Tokyo Chess Festival,2026-09-26,September,Tokyo,Japan,Rapid,8,Hiroshi Tanaka,Japan,2560,Wei Zhang,China,2700,1/2-1/2,Draw,Queen's Gambit,D30,61,76,Stalemate
+G173,Tokyo Chess Festival,2026-09-26,September,Tokyo,Japan,Rapid,8,Omar Farouk,Egypt,2450,Hiroshi Tanaka,Japan,2560,1-0,Omar Farouk,Ruy Lopez,C84,41,52,Checkmate
+G125,Oslo Chess Cup,2026-09-26,September,Oslo,Norway,Classical,9,Priya Nair,India,2520,Ivan Volkov,Ukraine,2620,0-1,Ivan Volkov,English Opening,A10,73,278,Checkmate
+G123,Oslo Chess Cup,2026-09-27,September,Oslo,Norway,Classical,3,Aisha Khan,Pakistan,2400,Omar Farouk,Egypt,2450,0-1,Omar Farouk,Queen's Gambit,D30,36,155,Time Forfeit
